@@ -2,1017 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd00f7b8-b94e-4bca-9911-0a45d3111b3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.eps" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/alpha.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/apng_test.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/apple-touch-icon-114x114-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/apple-touch-icon-144x144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/apple-touch-icon-57x57-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/apple-touch-icon-72x72-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/arrow.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bargrid1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bargrid2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/before-after.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/column1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/column2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/column3.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/tools/compiler/compiler.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/green5x5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/line1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/line2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/mathml_ref.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mixed1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/mixed2.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/png_alpha_result.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/red30x30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/ruby.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/sourcesans.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/sourcesans.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/sourcesans.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/sourcesans.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/stroked-text.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg-html-blur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg_blur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/text-shadow1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/text-shadow2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-bg_diagonals-thick_18_b81900_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-bg_diagonals-thick_20_666666_40x40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-bg_flat_10_000000_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-bg_glass_100_f6f6f6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-bg_glass_100_fdf5ce_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-bg_gloss-wave_35_f6a828_500x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-bg_highlight-soft_100_eeeeee_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-bg_highlight-soft_75_ffe45c_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-icons_228ef1_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-icons_ef8c08_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-icons_ffd27a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/images/ui-icons_ffffff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/windsong_font.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/StackBlur/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/canvg/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery-csv/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/rgbcolor/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/img/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/AUTHORS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/CAUTION.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/CHANGELOG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/ChartBuilderSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Chartbuilder.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Getting_Started.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/spec/GneissChartSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/colorbrewer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jit/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/polymaps/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/protovis/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/science/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/sizzle/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/canvg/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/tools/jasmine/MIT.LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/lib/jasmine-1.3.1/MIT.LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/media/Modernizr 2 Logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/SpecRunner.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/canvg/StackBlur.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/doc/TOC.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/Windsong-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/a-download.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/geo/albers-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/albers/albers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/albers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/svg/arc-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/arc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/area/area-defined.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/area/area-radial-defined.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/svg/area-radial-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/area/area-radial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/area-radial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/svg/area-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/area/area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/area.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/ascending-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/ascending.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/audio-audiodata-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/audio-webaudio-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/axis/axis-alternating.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/axis/axis-explicit-ticks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/axis/axis-ggplot2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/axis/axis-multiples.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/axis/axis-orientations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/svg/axis-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/axis/axis-transition.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/axis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/geo/azimuthal-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/azimuthal/azimuthal.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/azimuthal/azimuthal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/azimuthal/azimuthal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/azimuthal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bar/bar-hierarchy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bar/bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/tools/compiler/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/basic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/basic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/battery-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/battery-level.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/behavior/behavior.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/bilinear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/bisect-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/bisect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/blank.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/blob-constructor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/voroboids/boid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/geo/bonne-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bonne/bonne.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/bonne.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/bounds.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/box/box.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/box/box.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/box/box.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/browserinfo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/browsers.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/brush/brush-ordinal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/svg/brush-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/brush/brush-x-resizer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/brush/brush-x.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/brush/brush-y.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/brush/brush.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/brush.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bubble/bubble.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bubble/bubble.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bubble/bubble.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bullet/bullet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bullet/bullet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bullet/bullet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bullet/bullets.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bundle/bundle-radial.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bundle/bundle-radial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bundle/bundle-radial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bundle/bundle-treemap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bundle/bundle-treemap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bundle/bundle-treemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/button.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/calendar/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/canvas-todataurl-type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/canvg/canvg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/parallel/cars.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cartogram/cartogram.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cartogram/cartogram.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cartogram/cartogram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/category-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/category.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/chartbuilder.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/chartbuilder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/chord/chord-flare.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/chord/chord.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/chord/chord.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/chord/chord.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/chord.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/chord.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/choropleth/choropleth-area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/choropleth/choropleth-bounds.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/choropleth/choropleth.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/choropleth/choropleth.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/choropleth/choropleth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/geo/circle-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/circle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/clock/clock.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/clock/clock.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/clock/clock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/closure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cluster/cluster-radial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cluster/cluster-radial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/layout/cluster-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cluster/cluster.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cluster/cluster.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cluster/cluster.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/cluster.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/color.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/colorPicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/colorPicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/colorbrewer/colorbrewer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/colorbrewer/colorbrewer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/contenteditable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/contentsecuritypolicy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/contextmenu.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/contour/contour.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geom/contour.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/release/copyright.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/cors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/crimea/crimea-stacked-area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/crimea/crimea-stacked-bar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/crimea/crimea.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/doc/crossdomain.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-backgroundposition-shorthand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-backgroundposition-xy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-backgroundrepeat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-backgroundsizecover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-boxsizing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-calc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-cubicbezierrange.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-displayrunin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-displaytable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-hyphens.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-lastchild.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-mask.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-mediaqueries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-objectfit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-overflow-scrolling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-pointerevents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-positionsticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-regions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-remunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-resize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-scrollbars.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-subpixelfont.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-supports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-userselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-vhunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-vmaxunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-vminunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/css-vwunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/doc/css.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/cssclassname.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/cssclassname_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/dsv/csv-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/dsv/csv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/custom-iframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/custom-protocol-handler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/custom/custom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/custom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/modules/custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/modules/custom_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/d3.v2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/d3.v2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dataview-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/compat/date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/day-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/day.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/dayOfYear-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/days-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/delaunay/delaunay.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geom/delaunay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cartogram/demers.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cartogram/demers.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cartogram/demers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/deps.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/descending-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/descending.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/detect-global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/diagonal-radial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/diagonal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/dispatch-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/dispatch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/calendar/dji-area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/calendar/dji.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/calendar/dji.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/calendar/dji.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dom-classlist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dom-createElement-attrs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dom-dataset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/dom-microdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/domhelper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/domhelper_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/donut/donut.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cartogram/dorling.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cartogram/dorling.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/cartogram/dorling.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/dot/dot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/superformula/dot.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/drag/drag.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/behavior/drag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/dsv/dsv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/dumpdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/ease-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/ease.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-datalist.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-details.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-output.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-progress-meter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-ruby.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/elem-track.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/emoji.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/end.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/entries-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/entries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/env-assert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/env-fragment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/env-xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/geo/equirectangular-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/equirectangular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/es5-strictmode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/event-css-active-multiple.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/event-css-active.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/event-css-inactive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/event-css-loading.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/event-deviceorientation-motion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/event-js-active.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/event-js-font-active.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/event-js-loading.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/eventdispatcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/eventdispatcher_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/events-variations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/events.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/exif-orientation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/superformula/explorer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/doc/extend.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/extent-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/extent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/external_script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/external_stylesheet.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/faithful.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/doc/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/file-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/file-filesystem.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/first-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/first.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/flare-imports.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/flare.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/splom/flowers.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/font.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/font_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/modules/google/fontapiparser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/modules/google/fontapiparser_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/modules/google/fontapiurlbuilder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/modules/google/fontapiurlbuilder_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/fontdeck.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/modules/fontdeck.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/modules/fontdeck_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/fontmodule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/fontmoduleloader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/fontmoduleloader_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/fontruler.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/fontruler_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/fontwatcher.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/fontwatcher_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/fontwatchrunner-default-fonts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/fontwatchrunner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/fontwatchrunner_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force-bounds.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force-cluster.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force-collapsible.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force-dynamic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force-html.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force-map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force-multi-foci.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/force.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/force.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/form_validation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/format-en_GB.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/format-en_US.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/format-fr_FR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/format-iso.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/format-ru_RU.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/format-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/format-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/format-utc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/formatPrefix-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/formatPrefix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-fileinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-formattribute.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-inputnumber-l10n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-speechinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/forms-validation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/fullscreen-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/functor-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/functor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/ga.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/gamepad.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/geo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geom/geom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/getusermedia.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/gneisschart.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/gneisschart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/google-css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/google-iframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/google.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/modules/google/googlefontapi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/modules/google/googlefontapi_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/great-arc/great-arc.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/geo/greatArc-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/greatArc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/greatCircle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/grunt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/hashchange.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/hcl-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/hcl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-data-key.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-data-nested-key.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-data-nested.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-data.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-event.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-node-key.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-order.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-transform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-transition-undefined.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-transition.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/hello-webkit-transition.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/layout/hierarchy-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/hierarchy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/histogram/histogram-chart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/layout/histogram-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/histogram/histogram.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/histogram.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hive/hive-area.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hive/hive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/horizon/horizon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/horizon/horizon.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/horizon/horizon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/hour-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/hour.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/hours-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/hsl-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/hsl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/html-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/doc/html.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hull/hull.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geom/hull.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/identity-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/identity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/identity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/ie-fast-js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/ie-slow-js.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/ie-slow-link.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/ie8compat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/iframe-sandbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/iframe-seamless.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/iframe-srcdoc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/img-apng.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/img-webp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/index-browserify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/StackBlur/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery-csv/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/rgbcolor/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/initialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/interpolate-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/interpolate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/interval.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/tools/jasmine-browserstack/jasmine-browserstack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/tools/jasmine/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/lib/jasmine-1.3.1/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/tools/jasmine-phantomjs/jasmine-phantomjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/tools/jasmine/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/lib/jasmine-1.3.1/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/tools/jasmine/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/lib/jasmine-1.3.1/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/jquery-1.7b2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/js/vendor/jquery-1.9.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery-ui/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/jquery.colorPicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/really-simple-color-picker/jquery.colorPicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/doc/js.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/json-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/jsonselect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/kde/kde.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/kde/kde.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/kde/kde.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/keys-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/keys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/lab-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/lab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/last-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/last.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/line/line-defined.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/line/line-radial-defined.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/svg/line-radial-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/line/line-radial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/line-radial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/svg/line-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/line/line.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/line.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/linear-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/linear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hive/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/lists-reversed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/log-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/map-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/marimekko/marimekko.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/marimekko/marimekko.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/marker/marker.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/mathml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/mathml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/max-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/max.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/mean-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/mean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/median-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/median.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/geo/mercator-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/mercator/mercator-zoom-constrained.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/mercator/mercator-zoom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/mercator/mercator.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/mercator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/merge-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/merge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/min-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/minute-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/minute.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/minutes-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/doc/misc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/force/miserables.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/modernizr-1.7.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/modules.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/modules.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/moire/moire.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/monotype-iframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/monotype.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/modules/monotype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/modules/monotype_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/month-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/month.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/months-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/morley.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/mouse/mouse-html.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/mouse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/mouse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/nest-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/nest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/data/nestle_120hours.tsv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/data/nestle_1440minutes.tsv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/data/nestle_365days.tsv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/network-connection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/network-eventsource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/network-xhr2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/nice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/noop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/notification.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/ns-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/ns.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/transform/null-matrix.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/transform/null.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/nullfont.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/nullfont1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/nullfont2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/nullfont3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/number.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/ordinal-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/ordinal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/layout/pack-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/pack/pack.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/pack/pack.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/pack/pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/package.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/jquery/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bundle/packages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/parallel/parallel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/partition/partition-icicle-zoom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/partition/partition-icicle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/partition/partition-sunburst-zoom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/partition/partition-sunburst.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/partition/partition-sunburst.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/layout/partition-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/partition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/geo/path-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/path.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/performance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/permute-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/permute.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/layout/pie-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/pie/pie-transition.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/pie/pie.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/pie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/pointerlock-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/polyfills.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/geom/polygon-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geom/polygon.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/polylinear.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/population/population.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/population/population.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/population/population.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/population/population.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/pow-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/pow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/pushstate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/qq/qq.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/qq/qq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/qq/qq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/quadtree/quadtree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geom/quadtree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/quantile-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/quantile-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/quantile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/quantile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/quantize-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/quantize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/qunit/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/qunit/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/quota-management-api.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/random-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/random.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/range-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/range.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/rebind-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/rebind.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/requestanimationframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/requote-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/requote.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/rgb-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/rgb.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/canvg/rgbcolor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/rollup/rollup.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/round-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/round.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/qunit/run-qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/bar/sample-data.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/sample.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/sample.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/sample.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/sample.tsv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/sample.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/sample.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/scale-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/scale-utc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/scale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/scale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/science/science.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/science/science.lin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/science/science.lin.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/science/science.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/science/science.stats.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/science/science.stats.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/script-async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/script-defer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/second-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/second.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/seconds-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/select-enter-add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/select-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/hello-world/selectAll-enter-add.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selectAll-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-append-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-append.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-attr-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-call-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-call.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-classed-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-classed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-data-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-datum-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-datum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-each-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-each.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-empty-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-empty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-enter-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-enter-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-enter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-filter-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-html-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-insert-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-insert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-node-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-node.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-on-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-on.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-order-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-order.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-property-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-property.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-remove-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-remove.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-root.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-select-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-selectAll-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-selectAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-sort-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-style-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/selection-text-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/selection.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/server.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/setup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/showreel/showreel.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/size_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/sizzle/sizzle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/sizzle/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/lib/sizzle/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/sort/sort.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/sort/sort.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/sort/sort.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/sourcesans.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/sourcesansa.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/fixtures/fonts/sourcesansb.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/zoom/sp500.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/spline/spline.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/spline/spline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/spline/spline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/split-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/split.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/splom/splom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/splom/splom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/splom/splom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/sqrt-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/sqrt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/stream/stack.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/stream/stack.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/stream/stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/stack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/start.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/qq/stats.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/stocks.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/stream/stream.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/stream/stream.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/stream/stream.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/stream/stream_layers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/style-scoped.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/compat/style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/release/sugar-full.development.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/release/sugar-full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/sugar/release/sugar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/sum-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/superformula/superformula.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/superformula/superformula.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/svg-filters.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg-img.svg.1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/svg-img.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/svg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/symbol-map/symbol-map.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/svg/symbol-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/symbol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/tools/jasmine-phantomjs/terminal-reporter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/transform/test-rotate-origin.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/transform/test-rotate.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/transform/test.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/text-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/this.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/scale/threshold-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/scale/threshold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/timer-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/timer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/touch/touch.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/touches.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/svg/touches.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/transform/transform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-duration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-each.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-remove.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-selectAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-attrTween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-call.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-duration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-each.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-filter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-id.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-remove.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-selectAll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-styleTween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-time.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test-tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transition-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-text.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition-transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/transpose-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/transpose.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/tree/tree-dynamic.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/tree/tree-interactive.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/tree/tree-radial.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/tree/tree-radial.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/layout/tree-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/tree/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/tree/tree.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/tree/tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/treemap/treemap-svg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/treemap/treemap-svg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/layout/treemap-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/treemap/treemap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/treemap/treemap.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/treemap/treemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/layout/treemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/true.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/dsv/tsv-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/dsv/tsv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/qq/turkers.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/tvachon.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/tween-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geo/type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/typekit-iframe.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/typekit-variations.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader/demo/public/typekit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/modules/typekit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/modules/typekit_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/lib/uaparser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/unemployment.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/choropleth/unemployment.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/horizon/unemployment.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/unicode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/uninterpolate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/unit-caniuse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/js/unit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/url-data-uri.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/us-borders.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/node-canvas/us-counties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/us-counties.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/us-state-centroids.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/us-states.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/html5-boilerplate/doc/usage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/useragent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/useragentparser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/useragentparser_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/userdata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/utilities.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/values-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/values.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/version-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/version.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/version_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/vibration.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/calendar/vix.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/calendar/vix.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/calendar/vix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/voroboids/voroboids.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/voroboids/voroboids.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/voroboids/voroboids.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/voronoi/voronoi.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/voronoi/voronoi.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/voronoi/voronoi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/geom/voronoi.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/web-intents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/src/core/webfont.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/target/webfont.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/spec/core/webfont_spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/bin/webfontloader-demos" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/webfontloader.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/webfontloader/lib/webfontloader.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/webgl-extensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/websockets-binary.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/week-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/week.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/weeks-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/window-framed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/workers-blobworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/workers-dataworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/feature-detects/workers-sharedworkers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/data/world-countries.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/xhr-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/modernizr/test/caniuse_files/xhtml.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/xml-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/xml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/xyz.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/year-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/time/year.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/time/years-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/test/core/zip-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/core/zip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/zoom-pan/zoom-pan-transform.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/zoom-pan/zoom-pan.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/examples/zoom/zoom.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/d3/src/behavior/zoom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/gneisschart.css" afterPath="$PROJECT_DIR$/css/gneisschart.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/gneisschart.js" afterPath="$PROJECT_DIR$/js/gneisschart.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Chartbuilder.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1040,7 +33,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="3240">
+            <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="3240">
               <caret line="20" column="131" selection-start-line="20" selection-start-column="131" selection-end-line="20" selection-end-column="131" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1051,41 +44,41 @@
       </file>
       <file leaf-file-name="CAUTION.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower_components/sugar/CAUTION.md">
-          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="6345">
+            <state vertical-scroll-proportion="-5.109091" vertical-offset="424" max-vertical-offset="6345">
               <caret line="47" column="88" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="gneisschart.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/gneisschart.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1305">
+            <state vertical-scroll-proportion="-1.3636364" vertical-offset="0" max-vertical-offset="1305">
               <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.118329465" vertical-offset="747" max-vertical-offset="2055">
-              <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state vertical-scroll-proportion="-19.52" vertical-offset="862" max-vertical-offset="2055">
+              <caret line="90" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="help.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="help.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/help.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-23.4" vertical-offset="0" max-vertical-offset="675">
+            <state vertical-scroll-proportion="0.6898585" vertical-offset="0" max-vertical-offset="848">
               <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
@@ -1125,7 +118,7 @@
       <file leaf-file-name="gneisschart.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/gneisschart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="29813" max-vertical-offset="30660">
+            <state vertical-scroll-proportion="1077.4231" vertical-offset="29813" max-vertical-offset="30660">
               <caret line="120" column="9" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -1151,7 +144,6 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/gneisschart.css" />
         <option value="$PROJECT_DIR$/help.md" />
-        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1315,15 +307,11 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../conf/php5.2.17" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
   </component>
   <component name="RunManager">
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bd00f7b8-b94e-4bca-9911-0a45d3111b3c" name="Default" comment="" />
@@ -1335,24 +323,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25178713" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24980143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -1379,9 +367,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/gneisschart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1077.4231" vertical-offset="29813" max-vertical-offset="30660">
+          <caret line="120" column="9" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/sugar/CAUTION.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.109091" vertical-offset="424" max-vertical-offset="6345">
+          <caret line="47" column="88" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="3240">
+        <state vertical-scroll-proportion="-6.0" vertical-offset="0" max-vertical-offset="3240">
           <caret line="20" column="131" selection-start-line="20" selection-start-column="131" selection-end-line="20" selection-end-column="131" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1389,20 +398,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sugar/CAUTION.md">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/css/chartbuilder.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="6345">
-          <caret line="47" column="88" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="4194" max-vertical-offset="5550">
+          <caret line="299" column="31" selection-start-line="299" selection-start-column="31" selection-end-line="299" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/colorPicker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="873">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/really-simple-color-picker/colorPicker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="873">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/gneisschart.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1305">
+        <state vertical-scroll-proportion="-1.3636364" vertical-offset="0" max-vertical-offset="1305">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
@@ -1410,7 +432,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1350" max-vertical-offset="2055">
+        <state vertical-scroll-proportion="-19.52" vertical-offset="862" max-vertical-offset="2055">
           <caret line="90" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
           <folding />
         </state>
@@ -1418,121 +440,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/help.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/really-simple-color-picker/colorPicker.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/chartbuilder.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4194" max-vertical-offset="5550">
-          <caret line="299" column="31" selection-start-line="299" selection-start-column="31" selection-end-line="299" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/colorPicker.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/gneisschart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="29813" max-vertical-offset="30660">
-          <caret line="120" column="9" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/gneisschart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="29813" max-vertical-offset="30660">
-          <caret line="120" column="9" selection-start-line="120" selection-start-column="9" selection-end-line="120" selection-end-column="9" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/sugar/CAUTION.md">
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="6345">
-          <caret line="47" column="88" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="3240">
-          <caret line="20" column="131" selection-start-line="20" selection-start-column="131" selection-end-line="20" selection-end-column="131" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/chartbuilder.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="4194" max-vertical-offset="5550">
-          <caret line="299" column="31" selection-start-line="299" selection-start-column="31" selection-end-line="299" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/colorPicker.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="873">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/really-simple-color-picker/colorPicker.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="873">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/gneisschart.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1305">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/help.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.4" vertical-offset="0" max-vertical-offset="675">
+        <state vertical-scroll-proportion="0.6898585" vertical-offset="0" max-vertical-offset="848">
           <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.118329465" vertical-offset="747" max-vertical-offset="2055">
-          <caret line="60" column="0" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
           <folding />
         </state>
       </provider>
