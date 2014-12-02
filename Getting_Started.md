@@ -1,10 +1,10 @@
 ### Getting started
 
-Go to [http://quartz.github.io/Chartbuilder/](http://quartz.github.io/Chartbuilder/)
+Go to [http://quartz.github.io/Chartbuilder/](http://newsworks.github.io/Chartbuilder/)
 
 #### **Charting time Series Data (the basic stock chart)**
 
-1. Find some time series data (may I suggest [this](https://docs.google.com/a/qz.com/spreadsheet/ccc?key=0AtrPfe-ScVhJdGg0a2hKZU1JaWZ4ZGMxY3NKbWozYUE#gid=0)) 
+1. Find some time series data (may I suggest [this](https://docs.google.com/a/qz.com/spreadsheet/ccc?key=0AtrPfe-ScVhJdGg0a2hKZU1JaWZ4ZGMxY3NKbWozYUE#gid=0))
 
  1. if you need stock data, you’ll need to download that by using factset
 
@@ -20,7 +20,7 @@ Go to [http://quartz.github.io/Chartbuilder/](http://quartz.github.io/Chartbuild
 
 1. Find some ordinal series data (may I suggest [this](https://docs.google.com/a/qz.com/spreadsheet/ccc?key=0AtrPfe-ScVhJdDZrODFnM3Q1TTlfSHA2Z3lrSjJrUmc#gid=0))
 
- + The first row of your data must be your column headers!
+ + The first row of your data must be your column headers! All columns must have headers.
 
 2. Make sure the first column are your categories, and the heading on the first column *isn't* "date"
 
@@ -30,11 +30,11 @@ Go to [http://quartz.github.io/Chartbuilder/](http://quartz.github.io/Chartbuild
 
 *Adjust the Series Options*
 
-1. Adjust the colors if necessary by clicking on the colored square in the list. 
+1. Adjust the colors if necessary by clicking on the colored square in the list.
 
 2. Use the drop downs to select the chart type
 
-3. The checkbox turns on dual axes (you probably shouldn’t use this)
+3. The checkbox turns on dual axes (you probably shouldn’t use this!)
 
 *Adjust and input Chart Options*
 
@@ -42,7 +42,7 @@ Go to [http://quartz.github.io/Chartbuilder/](http://quartz.github.io/Chartbuild
 
  + Style point: most of the information that typically is in a chart title is better suited in other parts of the chart e.g. a line label or axis suffix, try using titles for editorial effect "The demise of Goldman" or clarity “Emerging market performance” for a chart with multiple emerging market countries represented
 
-2. The credit is defaults to "Made with Chartbuilder" feel free delete or change.
+2. The credit is defaults to "NewsWorks/WHYY".
 
 3. Source is blank by default, you should add one.
 
