@@ -1,6 +1,6 @@
 ### Getting started
 
-Go to [http://newsworks.github.io/Chartbuilder//](http://newsworks.github.io/Chartbuilder/)
+Go to [http://newsworks.github.io/Chartbuilder/](http://newsworks.github.io/Chartbuilder/)
 
 #### **Charting time Series Data (the basic stock chart)**
 
