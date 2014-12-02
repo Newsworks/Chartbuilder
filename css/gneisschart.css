@@ -2,7 +2,7 @@
 // Make sure to change the name of the font
 // in the webfont.js loader in index.html
 */
-@import url(//fonts.googleapis.com/css?family=Cutive);
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
 
 
 svg {
@@ -42,15 +42,15 @@ svg .axis path {
 }
 
 svg .axis text {
-	font-family: 'Cutive',Helvetica, sans-serif;
+	font-family: 'Open Sans',Helvetica, sans-serif;
 }
 
 svg .legendItem text {
-	font-family: 'Cutive',Helvetica, sans-serif;
+	font-family: 'Open Sans',Helvetica, sans-serif;
 }
 
 svg text.metaText {
-	font-family: 'Cutive',Helvetica, sans-serif;
+	font-family: 'Open Sans',Helvetica, sans-serif;
 	font-size:  10px;
 	text-rendering:   optimizeLegibility;
 	fill:  #999999;
@@ -58,7 +58,7 @@ svg text.metaText {
 
 svg text.barLabel,
 svg text.bargridLabel {
-	font-family: 'Cutive',Helvetica, sans-serif;
+	font-family: 'Open Sans',Helvetica, sans-serif;
 }
 
 /*Default styling of series*/
@@ -76,6 +76,6 @@ svg .seriesScatter circle {
 }
 
 #titleLine {
-	font-family: 'Cutive',Helvetica, sans-serif;
+	font-family: 'Open Sans',Helvetica, sans-serif;
 	fill: #666666;
 }
